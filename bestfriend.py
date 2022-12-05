@@ -1,3 +1,4 @@
-first_name = input("What is your name? ")
-print(f"Hello {first_name}!")
+first_name = "Brandon"
+last_name = "Riness"
+print(f"Hello {first_name} {last_name}, you are lonely...")
 
