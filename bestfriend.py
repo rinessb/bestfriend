@@ -14,17 +14,17 @@ print(f"{color}")
 
 print(f"No Way! My favorite color is also {color}!")
 
-show = input("What's your favorite show? ")
+movie = input("What's your favorite movie? ")
 
-print(f"{show}")
+print(f"{movie}")
 
-print(f"What!?! My favorite show is also {show}!")
+print(f"What!?! My favorite show is also {movie}!")
 
-sport = input("What's your favorite sport? ")
+game = input("What's your favorite sport? ")
 
-print(f"{sport}")
+print(f"{game}")
 
-print(f"GET OUT OF HERE!!! My favorite sport is also {sport}")
+print(f"GET OUT OF HERE!!! My favorite sport is also {game}")
 
 pizza = input("What's your leats favorite pizza topping? ")
 
