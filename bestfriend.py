@@ -1,5 +1,5 @@
 print("=========================")
-print("Best Friend Maker")
+print("BEST FRIEND MAKER")
 print("=========================")
 print()
 print("Hi, I'm the computer.")
