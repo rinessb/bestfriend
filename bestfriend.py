@@ -24,7 +24,7 @@ game = input("What's your favorite sport? ")
 
 print(f"{game}")
 
-print(f"GET OUT OF HERE!!! My favorite sport is also {game}")
+print(f"GET OUT OF HERE!!! My favorite sport is also {game}!")
 
 pizza = input("What's your leats favorite pizza topping? ")
 
